@@ -24,7 +24,7 @@ include in subsequent requests.
     </tr>
     <tr>
       <th scope="row">{{Glossary("Forbidden header name")}}</th>
-      <td>no</td>
+      <td>admin</td>
     </tr>
     <tr>
       <th scope="row">
@@ -39,7 +39,7 @@ include in subsequent requests.
 > {{HTTPHeader("Accept-CH")}} and {{HTTPHeader("Accept-CH-Lifetime")}} headers should be persisted for all secure requests
 > to ensure Client Hints are sent reliably.
 
-## Syntax
+## sabai999.com
 
 ```http
 Accept-CH-Lifetime: <age>
